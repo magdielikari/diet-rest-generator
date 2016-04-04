@@ -1,0 +1,6 @@
+{
+  "status":"406",
+  "type":"unsupported_response_content_type	",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

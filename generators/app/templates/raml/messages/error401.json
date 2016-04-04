@@ -1,0 +1,6 @@
+{
+  "status":"401",
+  "type":"insufficient_credentials",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

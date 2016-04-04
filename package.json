@@ -1,0 +1,37 @@
+{
+  "name": "diet-rest-generator",
+  "version": "0.0.1",
+  "description": "A resource code generator for rest with diet.js",
+  "homepage": "http://dietjs.com/",
+  "author": {
+    "name": "Magdiel Márquez",
+    "email": "magdielikari@gmail.com",
+    "url": "https://www.npmjs.com/package/diet-rest-generator"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.2"
+  },
+  "devDependencies": {
+    "yeoman-assert": "^2.0.0",
+    "gulp": "^3.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "repository": "magdielikari/diet-rest-generator",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT"
+}

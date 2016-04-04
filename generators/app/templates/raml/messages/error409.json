@@ -1,0 +1,6 @@
+{
+  "status":"409",
+  "type":"conflict_resource",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

@@ -1,0 +1,6 @@
+{
+  "status":"503",
+  "type":"service_temporarily_unavailable",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

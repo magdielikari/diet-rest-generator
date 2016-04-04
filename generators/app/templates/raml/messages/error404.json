@@ -1,0 +1,6 @@
+{
+  "status":"404",
+  "type":"collection_resource_non_existing or element_resource_non_existing",
+  "message": "Whoops! We can't find what you're looking for. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

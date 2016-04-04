@@ -1,0 +1,6 @@
+{
+  "status":"400",
+  "type":"validation_violation or bad_payload_syntax or business_error",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

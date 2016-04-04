@@ -1,0 +1,27 @@
+#%RAML 1.0
+title: hello
+version: v1
+baseUri: http://api.samplehost.com
+
+schemas:
+  - resource: !include schemas/resource.json
+
+resourceTypes:
+  - collection: !include resourceTypes/colletion.yaml
+
+traits:
+  - searchable: !include traits/searchable.yaml
+  - orderable: !include traits/orderable.yaml
+  - pageable: !include traits/pageable.yaml
+
+securitySchemes:
+  - oauth_2_0: !include securitySchemes/OAuth2.yaml
+  - oauth_1_0: !include securitySchemes/OAuth1.yaml
+
+/resource:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            example: !include examples/resource.json

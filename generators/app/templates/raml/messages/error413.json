@@ -1,0 +1,6 @@
+{
+  "status":"413",
+  "type":"bad_payload_size",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

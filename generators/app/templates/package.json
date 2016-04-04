@@ -1,0 +1,10 @@
+{
+    "name": "new-project",
+    "description": "new-project-description",
+    "version": "0.0.1",
+    "dependencies": {
+        "diet": "^v0.9.26",
+        "diet-static": "^2.2.0",
+
+    }
+}

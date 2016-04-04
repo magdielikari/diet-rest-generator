@@ -1,0 +1,6 @@
+{
+  "status":"500",
+  "type":"internal_service_error or backing_service_unavailable",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

@@ -1,0 +1,6 @@
+{
+  "status":"403",
+  "type":"insufficient_permissions",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

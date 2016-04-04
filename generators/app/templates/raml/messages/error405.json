@@ -1,0 +1,6 @@
+{
+  "status":"405",
+  "type":"unsupported_method",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}

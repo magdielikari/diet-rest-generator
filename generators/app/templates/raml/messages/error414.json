@@ -1,0 +1,6 @@
+{
+  "status":"414",
+  "type":"uri_too_long",
+  "message": "Something went very wrong. Please try again.",
+  "moreinfo": "http://api.samplehost.com/help"
+}
